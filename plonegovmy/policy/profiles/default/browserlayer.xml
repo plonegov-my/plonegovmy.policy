@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<layers>
+    <layer name="plonegovmy.policy"
+        interface="plonegovmy.policy.interfaces.IProductSpecific" />
+</layers>
