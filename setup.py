@@ -32,7 +32,10 @@ setup(name='plonegovmy.policy',
           'plone.app.referenceablebehavior',
           'collective.dexteritytextindexer',
           'plone.app.multilingual',
+          'collective.unslider',
           'plone.multilingualbehavior',
+          'Products.ContentWellPortlets',
+          'plonegovmy.theme'
           # -*- Extra requirements: -*-
       ],
       extras_require={
